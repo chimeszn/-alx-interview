@@ -16,7 +16,7 @@ You must use the request module
 ### Example
 
 ```
-alexa@ubuntu:~/0x06$ ./0-starwars_characters.js 3
+
 Luke Skywalker
 C-3PO
 R2-D2
@@ -37,5 +37,5 @@ Arvel Crynyd
 Wicket Systri Warrick
 Nien Nunb
 Bib Fortuna
-alexa@ubuntu:~/0x06$ 
+
 ```
